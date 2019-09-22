@@ -1,0 +1,114 @@
+Clipe Internacional do Ano
+data-id="2bd1fad8-1c5a-4626-936f-5dce467a301d"
+sdk-load-id="6f4fe868-1ec3-405e-9b1f-bb5e2a246c13"
+
+https://embed.playbuzz.com/html?id=2bd1fad8-1c5a-4626-936f-5dce467a301d
+::: https://embed.playbuzz.com/html?id={{data-id}}
+	fetch(
+		"https://embed.playbuzz.com/html?id=2bd1fad8-1c5a-4626-936f-5dce467a301d", {
+		"credentials":"omit",
+		"headers":{
+			"sec-fetch-mode":"cors"
+		},
+		"referrer":"https://www.breaktudo.com/breaktudo-awards-2019-votacao-music-parte-1/",
+		"referrerPolicy":"no-referrer-when-downgrade",
+		"body":null,
+		"method":"GET",
+		"mode":"cors"
+	});
+	=> window.pbItem = {"id":"2bd1fad8-1c5a-4626-936f-5dce467a301d","tags":[],"locale":"en-US","status":"published","translation":{"enabled":true},"sponsored":{"enabled":false},"permission":{"view":"public"},"created":"2019-08-31T01:41:32.593Z","updated":"2019-09-05T15:08:33.4085829Z","creator":{"id":"cde4766f-afc0-4995-96d7-04c17b058bd3","firstName":"Network BTDA","lastName":"","nickName":"networkbtda10","facebook":"","thumbnail":"//cdn.playbuzz.com/cdn/UserImages/8bc1239f-72e3-4c71-ac48-fd3f0d431c7d.jpg","allowedToMarkSponsored":false,"isActivated":true,"registrationDate":"2019-08-29T13:45:55.740Z","channels":[{"id":"cde4766f-afc0-4995-96d7-04c17b058bd3","firstName":"Network BTDA","lastName":"","nickName":"networkbtda10","facebook":"","thumbnail":"//cdn.playbuzz.com/cdn/UserImages/8bc1239f-72e3-4c71-ac48-fd3f0d431c7d.jpg","allowedToMarkSponsored":false,"isActivated":true,"registrationDate":"2019-08-29T13:45:55.740Z"}]},"formatId":"story","title":"Clipe Internacional do Ano","detectedLocale":"en-US","thumbnail":{"mediaType":"image","originalImageUrl":"https://img.playbuzz.com/image/upload/v1485701643/rrptnddw80syrlipfm4r.jpg","width":1297,"height":688,"isAnimated":false,"url":"https://img.playbuzz.com/image/upload/c_crop,h_688,w_1297,x_15,y_0/ar_420:315,c_crop/w_420,c_fill/v1485701643/rrptnddw80syrlipfm4r.jpg","selected":{"x":15,"y":0,"x2":1312,"y2":688,"w":1297,"h":688}},"socialThumbnail":{"mediaType":"image","originalImageUrl":"https://img.playbuzz.com/image/upload/v1485701643/rrptnddw80syrlipfm4r.jpg","width":1297,"height":688,"isAnimated":false,"url":"https://img.playbuzz.com/image/upload/c_crop,h_688,w_1297,x_15,y_0/v1485701643/rrptnddw80syrlipfm4r.jpg","selected":{"x":15,"y":0,"x2":1312,"y2":688,"w":1297,"h":688}},"sections":[[{"template":"background","answersTemplate":"square","style":{"backgroundColor":"#ffffff","color":"#000000","resultBackgroundColor":"#009cff"},"settings":{"showTotalVotes":false,"showEndingCard":true,"showThumbnail":false,"fullHeight":true,"allowRevotes":true,"votingEnabled":true},"questions":[{"id":"2b065cde-043f-4624-9e6c-4df52e252ad7","text":"Clipe Internacional do Ano","media":{},"answers":[{"id":"b4700c82-21ba-415e-83c4-9761812ebd66","text":"Bad Guy – Billie Eilish","media":{"mediaType":"image","originalImageUrl":"https://img.playbuzz.com/image/upload/v1567215466/my49typetmqfujkwpzhc.jpg","url":"https://img.playbuzz.com/image/upload/ar_1,c_crop/v1567215466/my49typetmqfujkwpzhc.jpg","canvasObjects":{},"width":162,"height":162,"isAnimated":false,"selected":{"h":162,"w":162,"x":0,"y":0,"x2":162,"y2":162},"fileSize":9114}},{"id":"8db06e3c-012c-4989-84da-13373b066393","text":"God Control – Madonna","media":{"mediaType":"image","originalImageUrl":"https://img.playbuzz.com/image/upload/v1567215487/yoqnij8ep8djplfh9x1f.jpg","url":"https://img.playbuzz.com/image/upload/ar_1,c_crop/v1567215487/yoqnij8ep8djplfh9x1f.jpg","canvasObjects":{},"width":162,"height":162,"isAnimated":false,"selected":{"h":162,"w":162,"x":0,"y":0,"x2":162,"y2":162},"fileSize":16222}},{"id":"966c9a62-aa43-4e86-975e-e1cac50faa0b","text":"Happier – Marshmello ft. Bastille","media":{"mediaType":"image","originalImageUrl":"https://img.playbuzz.com/image/upload/v1567215504/azknu63dupohjtsydalo.jpg","url":"https://img.playbuzz.com/image/upload/ar_1,c_crop/v1567215504/azknu63dupohjtsydalo.jpg","canvasObjects":{},"width":162,"height":162,"isAnimated":false,"selected":{"h":162,"w":162,"x":0,"y":0,"x2":162,"y2":162},"fileSize":11652}},{"id":"79936a1d-bc89-4e60-946b-dc77548f80b4","text":"Kill This Love – BlackPink","media":{"mediaType":"image","originalImageUrl":"https://img.playbuzz.com/image/upload/v1567215536/rcc1ctxjx5ibduckzz8k.jpg","url":"https://img.playbuzz.com/image/upload/ar_1,c_crop/v1567215536/rcc1ctxjx5ibduckzz8k.jpg","canvasObjects":{},"width":162,"height":162,"isAnimated":false,"selected":{"h":162,"w":162,"x":0,"y":0,"x2":162,"y2":162},"fileSize":18793}},{"id":"ee0d7e9c-c85d-49ee-8a64-98f8c1e509a5","text":"Never Really Over – Katy Perry","media":{"mediaType":"image","originalImageUrl":"https://img.playbuzz.com/image/upload/v1567215566/y3kxoeagihsk2i4jvh40.jpg","url":"https://img.playbuzz.com/image/upload/ar_1,c_crop/v1567215566/y3kxoeagihsk2i4jvh40.jpg","canvasObjects":{},"width":162,"height":162,"isAnimated":false,"selected":{"h":162,"w":162,"x":0,"y":0,"x2":162,"y2":162},"fileSize":12608}},{"id":"c5029450-6a04-4651-aea2-b22ec6a96e81","text":"Preach – John Legend","media":{"mediaType":"image","originalImageUrl":"https://img.playbuzz.com/image/upload/v1567215581/qpdo6nnsanv9thbniavn.jpg","url":"https://img.playbuzz.com/image/upload/ar_1,c_crop/v1567215581/qpdo6nnsanv9thbniavn.jpg","canvasObjects":{},"width":162,"height":162,"isAnimated":false,"selected":{"h":162,"w":162,"x":0,"y":0,"x2":162,"y2":162},"fileSize":9357}},{"id":"eaf1bf51-d152-47b9-83b5-aa663ab5cea8","text":"Sally Walker – Iggy Azalea","media":{"mediaType":"image","originalImageUrl":"https://img.playbuzz.com/image/upload/v1567215615/ki9tgl9mrbqfkkl2o0g4.jpg","url":"https://img.playbuzz.com/image/upload/ar_1,c_crop/v1567215615/ki9tgl9mrbqfkkl2o0g4.jpg","canvasObjects":{},"width":162,"height":162,"isAnimated":false,"selected":{"h":162,"w":162,"x":0,"y":0,"x2":162,"y2":162},"fileSize":10094}},{"id":"a8181c9f-3daa-4adb-b243-16795969aa76","text":"You Need To Calm Down – Taylor Swift","media":{"mediaType":"image","originalImageUrl":"https://img.playbuzz.com/image/upload/v1567215658/hp2whgctrr3dbpuwjui7.jpg","url":"https://img.playbuzz.com/image/upload/ar_1,c_crop/v1567215658/hp2whgctrr3dbpuwjui7.jpg","canvasObjects":{},"width":162,"height":162,"isAnimated":false,"selected":{"h":162,"w":162,"x":0,"y":0,"x2":162,"y2":162},"fileSize":11610}}]}],"id":"e66c5832-8258-42f9-85d9-27d83c877e9e","type":"pollSection","list":{"type":"none","backgroundColor":"#009cff","color":"#fff","enableVoting":true,"enableDownVoting":false},"title":{"ops":[{"insert":"\n"}]},"results":[],"isExperience":false,"currentResultIndex":0}]],"readingTime":5,"cover":{"mediaType":"image","originalImageUrl":"https://img.playbuzz.com/image/upload/v1485701643/rrptnddw80syrlipfm4r.jpg","width":1297,"height":688,"isAnimated":false,"url":"https://img.playbuzz.com/image/upload/c_crop,h_688,w_1297,x_15,y_0/v1485701643/rrptnddw80syrlipfm4r.jpg","selected":{"x":15,"y":0,"x2":1312,"y2":688,"w":1297,"h":688}},"meta":null,"templateId":"aa6cd7fd-831d-47a7-a44f-4c815bdc99d4"};
+	  => 	resultId 	= 79936a1d-bc89-4e60-946b-dc77548f80b4
+	  => 	sectionId 	= e66c5832-8258-42f9-85d9-27d83c877e9e
+	  => 	questionId 	= 2b065cde-043f-4624-9e6c-4df52e252ad7
+	
+https://pixel.playbuzz.com/v1/item/2bd1fad8-1c5a-4626-936f-5dce467a301d
+::: https://pixel.playbuzz.com/v1/item/{{data-id}}
+
+https://ads.playbuzz.com/api/v1/template?itemId=2bd1fad8-1c5a-4626-936f-5dce467a301d&referrer=https%3A%2F%2Fwww.breaktudo.com%2Fbreaktudo-awards-2019-votacao-music-parte-1%2F
+
+https://voting.playbuzz.com/poll/e66c5832-8258-42f9-85d9-27d83c877e9e/2b065cde-043f-4624-9e6c-4df52e252ad7?questionId=2b065cde-043f-4624-9e6c-4df52e252ad7
+::: https://voting.playbuzz.com/poll/{{sectionId}}/{{questionId}}?questionId={{questionId}}
+
+	fetch("https://voting.playbuzz.com/poll/e66c5832-8258-42f9-85d9-27d83c877e9e/2b065cde-043f-4624-9e6c-4df52e252ad7?questionId=2b065cde-043f-4624-9e6c-4df52e252ad7", {
+		"credentials":"omit",
+		"headers":{
+			"sec-fetch-mode":"cors"
+		},
+		"referrer":"https://www.breaktudo.com/breaktudo-awards-2019-votacao-music-parte-1/",
+		"referrerPolicy":"no-referrer-when-downgrade",
+		"body":null,
+		"method":"GET",
+		"mode":"cors"
+	});
+
+	=> {"settings":{"isSecure":false,"hideResults":false},"results":{"79936a1d-bc89-4e60-946b-dc77548f80b4":"36774","8db06e3c-012c-4989-84da-13373b066393":"192","966c9a62-aa43-4e86-975e-e1cac50faa0b":"778","a8181c9f-3daa-4adb-b243-16795969aa76":"2667","b4700c82-21ba-415e-83c4-9761812ebd66":"8430","c5029450-6a04-4651-aea2-b22ec6a96e81":"330","eaf1bf51-d152-47b9-83b5-aa663ab5cea8":"413","ee0d7e9c-c85d-49ee-8a64-98f8c1e509a5":"581"}}
+	::: 79936a1d-bc89-4e60-946b-dc77548f80b4 = 36774
+
+fetch("https://voting.playbuzz.com/poll/", {
+	"credentials":"omit",
+	"headers":{
+		"accept":"application/x-www-form-urlencoded",
+		"content-type":"application/x-www-form-urlencoded",
+		"sec-fetch-mode":"cors"
+	},
+	"referrer":"https://www.breaktudo.com/breaktudo-awards-2019-votacao-music-parte-1/",
+	"referrerPolicy":"no-referrer-when-downgrade",
+	"body":"
+		sectionId=e66c5832-8258-42f9-85d9-27d83c877e9e&
+		questionId=2b065cde-043f-4624-9e6c-4df52e252ad7&
+		resultId=79936a1d-bc89-4e60-946b-dc77548f80b4&
+		recaptchaToken=null
+	",
+	"method":"POST",
+	"mode":"cors"
+});
+
+fetch(
+	"https://prd-collector-anon.playbuzz.com/main/events", {
+	"credentials":"omit",
+	"headers":{
+		"accept":"application/json",
+		"content-type":"text/plain;charset=UTF-8",
+		"sec-fetch-mode":"cors"
+	},
+	"referrer":"https://www.breaktudo.com/breaktudo-awards-2019-votacao-music-parte-1/",
+	"referrerPolicy":"no-referrer-when-downgrade",
+	"body":"{\"deltaTime\":\"1320.41\",\"events\":[{\"pageloadUid\":\"7fe7e142-fc99-4f88-b20d-74d492937173\",\"articleId\":\"2bd1fad8-1c5a-4626-936f-5dce467a301d\",\"isSponsored\":false,\"userId\":\"6j8cl4dkoi00j8t3\",\"sessionIsCookieOk\":true,\"userIsLoggedIn\":false,\"particleType\":\"pollSection\",\"particleId\":\"e66c5832-8258-42f9-85d9-27d83c877e9e\",\"particleIndex\":0,\"pageActionName\":\"vote\",\"pageActionType\":\"poll\",\"pageActionLabel\":\"Kill This Love – BlackPink\",\"frameworkProp1\":\"square\",\"frameworkProp2\":\"#ffffff\",\"frameworkProp4\":true,\"frameworkProp5\":false,\"frameworkProp6\":false,\"itemAnswerId\":\"79936a1d-bc89-4e60-946b-dc77548f80b4\",\"deltaTime\":\"1319.40\",\"eventName\":\"page_action\"}],\"pageloadUid\":\"7fe7e142-fc99-4f88-b20d-74d492937173\",\"articleId\":\"2bd1fad8-1c5a-4626-936f-5dce467a301d\",\"isSponsored\":false,\"userId\":\"6j8cl4dkoi00j8t3\",\"sessionIsCookieOk\":true,\"userIsLoggedIn\":false}",
+	"method":"POST",
+	"mode":"cors"
+});
+	
+{ 
+   "deltaTime":"1320.41",
+   "events":[ 
+      { 
+         "pageloadUid":"7fe7e142-fc99-4f88-b20d-74d492937173", //random
+         "articleId":"2bd1fad8-1c5a-4626-936f-5dce467a301d", //data-id
+         "isSponsored":false,
+         "userId":"6j8cl4dkoi00j8t3", //random
+         "sessionIsCookieOk":true,
+         "userIsLoggedIn":false,
+         "particleType":"pollSection",
+         "particleId":"e66c5832-8258-42f9-85d9-27d83c877e9e", //sectionId
+         "particleIndex":0,
+         "pageActionName":"vote",
+         "pageActionType":"poll",
+         "pageActionLabel":"Kill This Love – BlackPink",
+         "frameworkProp1":"square",
+         "frameworkProp2":"#ffffff",
+         "frameworkProp4":true,
+         "frameworkProp5":false,
+         "frameworkProp6":false,
+         "itemAnswerId":"79936a1d-bc89-4e60-946b-dc77548f80b4", //resultId
+         "deltaTime":"1319.40",
+         "eventName":"page_action"
+      }
+   ],
+   "pageloadUid":"7fe7e142-fc99-4f88-b20d-74d492937173",
+   "articleId":"2bd1fad8-1c5a-4626-936f-5dce467a301d",
+   "isSponsored":false,
+   "userId":"6j8cl4dkoi00j8t3",
+   "sessionIsCookieOk":true,
+   "userIsLoggedIn":false
+}
+	

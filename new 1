@@ -1,0 +1,47 @@
+https://secure.polldaddy.com/p/10407137.js
+https://secure.polldaddy.com/p/10407146.js
+https://secure.polldaddy.com/p/10407150.js
+
+var PDV_nurl10407146 = 'https://polldaddy.com/n/' + (typeof PDV_h10407146 !== 'undefined' ? PDV_h10407146 : PDV_id10407146) + '/' + PDV_id10407146 + (PDV_w10407146 != PDV_id10407146 ? '/' + PDV_w10407146 : '');
+
+https://polldaddy.com/n/c21a29d2607509666ca9be169a6a3c2a/10407146?1568358123824
+https://polldaddy.com/n/c21a29d2607509666ca9be169a6a3c2a/{poll-id}?{timestamp}
+await fetch("https://polldaddy.com/n/c21a29d2607509666ca9be169a6a3c2a/10407146?1568358123824", {
+    "credentials": "omit",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0",
+        "Accept": "*/*",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Pragma": "no-cache",
+        "Cache-Control": "no-cache"
+    },
+    "referrer": "https://www.breaktudo.com/breaktudo-awards-2019-votacao-music-parte-1/",
+    "method": "GET",
+    "mode": "cors"
+});
+PDV_n10407146='d455032598|387';PD_vote10407146(0);
+
+blackpink = 48004715
+
+https://polls.polldaddy.com/vote-js.php?p=10407146&b=0&a=48004715,&o=&va=0&cookie=0&n=d455032598|387&url=https%3A//www.breaktudo.com/breaktudo-awards-2019-votacao-music-parte-1/
+await fetch("https://polls.polldaddy.com/vote-js.php?p=10407146&b=0&a=48004715,&o=&va=0&cookie=0&n=d455032598|387&url=https%3A//www.breaktudo.com/breaktudo-awards-2019-votacao-music-parte-1/", {
+    "credentials": "omit",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0",
+        "Accept": "*/*",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Pragma": "no-cache",
+        "Cache-Control": "no-cache"
+    },
+    "referrer": "https://www.breaktudo.com/breaktudo-awards-2019-votacao-music-parte-1/",
+    "method": "GET",
+    "mode": "cors"
+});
+
+
+
+
+
+
+
+
